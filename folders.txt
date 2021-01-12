@@ -1,0 +1,14 @@
+BGM\
+lib\
+lib\encodings\
+lib\xml\
+lib\xml\dom\
+lib\xml\parsers\
+logs\
+mark\
+miles\
+offlineshop\
+pack\
+screenshot\
+shops\
+upload\
